@@ -28,6 +28,9 @@ You can find me on [Twitter](https://twitter.com/bwsketch)
 ⚡ XTZ NFTs
 ⚡ Tezos NFT
 
+------------
+
+![](https://komarev.com/ghpvc/?username=BWSketch&label=Profile+views+since+20.12.2021)
 
 <!---
 BWSketch/BWSketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
