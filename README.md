@@ -17,6 +17,9 @@ You can find me on [Twitter](https://twitter.com/bwsketch)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bwsketch)
 
+
+------------
+
 ⚡ NFT
 ⚡ Polygon Blockchain
 ⚡ NFTArtist
@@ -24,6 +27,7 @@ You can find me on [Twitter](https://twitter.com/bwsketch)
 ⚡ OpenSea NFTs
 ⚡ XTZ NFTs
 ⚡ Tezos NFT
+
 
 <!---
 BWSketch/BWSketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
