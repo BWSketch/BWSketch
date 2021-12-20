@@ -1,4 +1,4 @@
-### Hi there, I'm Anton (BWSketch) 👋
+### Hi there, I'm Anton (BWSketchArt) 👋
 
 I am an NFT Artist, drawing Black & White sketches and 3D Art
 
