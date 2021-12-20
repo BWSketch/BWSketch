@@ -13,6 +13,10 @@ You can find me on [Twitter](https://twitter.com/bwsketch)
 - [OpenSea](https://opensea.io/BWSketch)
 - [Hic.af](https://hic.af/bwsketch/collection)
 
+### 💬 I'm on Social Platforms
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bwsketch)
+
 <!---
 BWSketch/BWSketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
