@@ -6,7 +6,9 @@ You can find me on [Twitter](https://twitter.com/bwsketchart)
 
 ### ✏️ My Latest Works on [Hic.af](https://hic.af/bwsketchart/collection) (Tezos Blockchain)
 
-[![Red Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/red_rose_under_glass_preview.jpg)](https://hic.af/o/596084)
+
+[![Black Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/black_rose_under_glass_preview_git.gif)](https://hic.af/o/596365)
+[![Red Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/red_rose_under_glass_preview_git.gif)](https://hic.af/o/596084)
 
 ### ✏️ My Latest Works on [OpenSea](https://opensea.io/BWSketchArt) (Polygon Blockchain)
 
