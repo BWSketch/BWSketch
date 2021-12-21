@@ -6,6 +6,7 @@ You can find me on [Twitter](https://twitter.com/bwsketchart)
 
 ### ✏️ My Latest NFT Artworks on [Hic.af](https://hic.af/bwsketchart) (Tezos Blockchain)
 
+[![Pink Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/pink_rose_under_glass_preview_git.gif)](https://hic.af/o/596867)
 [![Blue Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/blue_rose_under_glass_preview_git.gif)](https://hic.af/o/596849)
 [![Yellow Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/yellow_rose_under_glass_preview_git.gif)](https://hic.af/o/596810)
 [![White Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/white_rose_under_glass_preview_git.gif)](https://hic.af/o/596720)
