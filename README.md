@@ -4,9 +4,9 @@ I am an NFT Artist, drawing Black & White sketches and 3D Art
 
 You can find me on [Twitter](https://twitter.com/bwsketchart)
 
-### ✏️ My Latest Works on [Objkt.com](https://objkt.com/profile/tz1Uy2S7mTJxSLcqUnfg6MvdD5JcQ6JaLhch) (Tezos Blockchain)
+### ✏️ My Latest Works on [Hic.af](https://hic.af/bwsketchart/collection) (Tezos Blockchain)
 
-[![Red Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/red_rose_under_glass_preview.jpg)](https://objkt.com/asset/hicetnunc/596084)
+[![Red Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/red_rose_under_glass_preview.jpg)](https://hic.af/bwsketchart/collection)
 
 ### ✏️ My Latest Works on [OpenSea](https://opensea.io/BWSketchArt) (Polygon Blockchain)
 
