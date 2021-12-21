@@ -17,9 +17,9 @@ You can find me on [Twitter](https://twitter.com/bwsketchart)
 ### 👀 My Collections are available on
 
 - [OpenSea](https://opensea.io/BWSketchArt)
-- [Hic.af](https://hic.af/bwsketchart/collection)
+- [Hic.af](https://hic.af/bwsketchart)
 - [Hicetnunc.art](https://hicetnunc.art/bwsketchart)
-- [Objkt.com](https://objkt.com/profile/tz1Uy2S7mTJxSLcqUnfg6MvdD5JcQ6JaLhch/owned)
+- [Objkt.com](https://objkt.com/profile/tz1Uy2S7mTJxSLcqUnfg6MvdD5JcQ6JaLhch)
 
 ### 💬 I'm on Social Platforms
 
