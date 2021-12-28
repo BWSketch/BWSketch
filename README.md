@@ -7,6 +7,7 @@ I am an NFT Artist, drawing Black & White sketches and 3D Art
 
 ### ✏️ My Latest NFT Artworks on [Hic.af](https://hic.af/bwsketchart) (Tezos Blockchain)
 
+[![Christmas Mood - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/christmas_mood_preview_200.gif)](https://hic.af/o/605857)
 [![Pink Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/pink_rose_under_glass_preview_git.gif)](https://hic.af/o/596867)
 [![Blue Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/blue_rose_under_glass_preview_git.gif)](https://hic.af/o/596849)
 [![Yellow Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/yellow_rose_under_glass_preview_git.gif)](https://hic.af/o/596810)
