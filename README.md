@@ -1,11 +1,27 @@
 ### 👋 Hi there, I'm Anton (BWSketchArt)
 
-I am an NFT Artist, drawing Black & White sketches and 3D Art
+I am an NFT Artist & Creator of Crypto Game [Tez Lands](https://tezlands.com) (NFT Collectible Card Game)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bwsketchart)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bwsketchart)
 
-### ✏️ My Latest NFT Artworks on [Hic.af](https://hic.af/bwsketchart) (Tezos Blockchain)
+### ⚔️ Tez Lands - NFT Collectible Card Game
+**Idea & Concept**
+
+You will collect different pieces of equipment (weapon, helm, boots, etc...) through the FxHash platform and use it all in the future on the custom-created platform in battles against monsters or/and other players. By using Crafting System you will be able to combine multiple items to get higher-ranked items or completely different items. Exploration System will give you chance to travel the world of Tez Lands and gather resources, or even build your own house.
+
+The game development will consist of multiple Chapters.<br>
+The first chapter is already open - Apprentice Sword.<br>
+Upcoming chapter - Apprentice Shield
+
+Chapter I - Apprentice Sword<br>
+[![Tez Lands - Chapter I Apprentice Sword](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/tezlands_apprentice_sword.png)](https://tezlands.com)
+
+### 🎨 🖥️ My Latest Coded Art (Generative Art) on [Rarible](https://rarible.com/bwsketchart/sale) (Tezos Blockchain)
+
+[![Coded Art #1](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/loop_200.gif)](https://rarible.com/token/tezos/KT18pVpRXKPY2c4U2yFEGSH3ZnhB2kL8kwXS:34105)
+
+### 🎨 My Latest NFT Artworks on [Hic.af](https://hic.af/bwsketchart) (Tezos Blockchain)
 
 [![Christmas Mood - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/christmas_mood_preview_200.gif)](https://hic.af/o/605857)
 [![Pink Rose Under Glass - Objkt.com](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/pink_rose_under_glass_preview_git.gif)](https://hic.af/o/596867)
