@@ -6,13 +6,7 @@ I am an NFT Artist & Creator of Crypto Game [Tez Lands](https://tezlands.com) (N
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bwsketchart)
 
 ### ⚔️ Tez Lands - NFT Collectible Card Game
-**Idea & Concept**
-
-You will collect different pieces of equipment (weapon, helm, boots, etc...) through the FxHash platform and use it all in the future on the custom-created platform in battles against monsters or/and other players. By using Crafting System you will be able to combine multiple items to get higher-ranked items or completely different items. Exploration System will give you chance to travel the world of Tez Lands and gather resources, or even build your own house.
-
-The game development will consist of multiple Chapters.<br>
-The first chapter is already open - Apprentice Sword.<br>
-Upcoming chapter - Apprentice Shield
+[Click To See Game Idea](https://twitter.com/BWSketchArt/status/1487730085851541508/photo/1)
 
 Chapter I - Apprentice Sword<br>
 [![Tez Lands - Chapter I Apprentice Sword](https://raw.githubusercontent.com/BWSketchArt/BWSketchArt/main/tezlands_apprentice_sword.png)](https://tezlands.com)
